@@ -73,7 +73,7 @@ function Footer() {
                   raajarsh6@gmail.com
                 </a>
               </li>
-              <li><p className="color:#FF073A"> Developed by Er Arshad sheikh</p></li>
+              <li><p className="text-[#FF073A] text-sm tesxt center"> Developed by Er Arshad sheikh</p></li>
             </ul>
           </div>
         </div>

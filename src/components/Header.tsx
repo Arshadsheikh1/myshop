@@ -5,7 +5,7 @@ function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <header className="fixed w-full bg-white shadow-md z-50">
+    <header className="sticky top-0 w-full bg-white shadow-md z-50">
       <div className="bg-amber-900 text-white py-2">
         <div className="max-w-7xl mx-auto px-4 flex justify-between items-center text-sm">
           <div className="flex gap-6">
